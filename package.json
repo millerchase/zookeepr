@@ -1,0 +1,23 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "Provides a server for the zookepr app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millerchase/zookeepr.git"
+  },
+  "author": "Chase Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millerchase/zookeepr/issues"
+  },
+  "homepage": "https://github.com/millerchase/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
