@@ -108,6 +108,18 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Sassy",
+      "species": "Doggo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
